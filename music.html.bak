@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<title>Music</title>
+</head>
+
+<body>
+<nav>
+	<div class="topnav">
+	<h2 id="header">NKOTB</h2>
+	</div>
+
+<div class="topnav">
+  <a href="https://cmst385-abuckler4.azurewebsites.net/project3/news.html">News</a>
+  <a href="https://cmst385-abuckler4.azurewebsites.net/project3/music.html">Music</a>
+  <a href="https://cmst385-abuckler4.azurewebsites.net/project3/index.html">Home</a>
+</div>
+</nav>
+<div class="bg"></div>
+<div class="source"><i>NKOTB.com, 2022</i></div>
+<h1>Discography</h1>
+<br>
+<br>
+
+<footer>
+<p>NKOTB  2022</p>
+</footer>
+</body>
+</html>
